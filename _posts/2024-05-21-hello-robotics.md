@@ -6,9 +6,9 @@ tags: [tag1, tag2]
 math: true
 mermaid: true
 toc: true
-image:
-  path: /assets/img/thumbnail_name.png
-  alt: Thumbnail Description
+# image:
+#   path: /assets/img/thumbnail_name.png
+#   alt: Thumbnail Description
 ---
 
 ## 1. 개요 (Introduction)
@@ -59,4 +59,4 @@ def robot_control():
 
 ---
 **Reference**
-* [Title](URL)
+* [Google](https://google.com)
