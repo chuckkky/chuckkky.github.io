@@ -6,9 +6,9 @@ tags: [python, math, simulation, control]
 math: true
 mermaid: true
 toc: true
-image:
-  path: /assets/img/robot_arm_thumbnail.png
-  alt: 로봇 팔 시뮬레이션 썸네일
+# image:                                      <-- 이렇게 지우거나 #을 붙이세요
+#   path: /assets/img/robot_arm_thumbnail.png
+#   alt: 로봇 팔 시뮬레이션 썸네일
 ---
 
 ## 1. 개요 (Introduction)
