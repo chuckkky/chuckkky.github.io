@@ -45,12 +45,12 @@ $$
 
 ```mermaid
 graph LR
-    A[Target Position (x, y)] --> B(Inverse Kinematics);
-    B --> C{Solution Exists?};
-    C -- Yes --> D[Calculate Theta1, Theta2];
-    C -- No --> E[Error Handling];
-    D --> F[Motor Controller];
-    F --> G[Robot Movement];
+    A["Target Position (x, y)"] --> B("Inverse Kinematics");
+    B --> C{"Solution Exists?"};
+    C -- Yes --> D["Calculate Theta1, Theta2"];
+    C -- No --> E["Error Handling"];
+    D --> F["Motor Controller"];
+    F --> G["Robot Movement"];
 ```
 
 ---
