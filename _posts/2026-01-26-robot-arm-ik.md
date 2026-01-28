@@ -1,14 +1,11 @@
 ---
 title: "[Robotics] 2-Link 로봇 팔의 역기구학 해석과 파이썬 구현"
-date: 2026-01-26 17:00:00 +0900
+date: 2024-05-20 14:00:00 +0900
 categories: [Robotics, Kinematics]
 tags: [python, math, simulation, control]
 math: true
 mermaid: true
 toc: true
-# image:                                      <-- 이렇게 지우거나 #을 붙이세요
-#   path: /assets/img/robot_arm_thumbnail.png
-#   alt: 로봇 팔 시뮬레이션 썸네일
 ---
 
 ## 1. 개요 (Introduction)
